@@ -13,3 +13,10 @@ I love to talk to people and discuss anything tech! You can reach out to me on a
 - 🐦 I tweet [@nathaneastwood_](https://twitter.com/nathaneastwood_)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCGBZVwqpK33b27yK32f514g?sub_confirmation=1)
 - 📧 You can also send me an [email](mailto:nathan.eastwood@icloud.com)
+
+## 📝 Latest blog posts
+
+These are my latest posts on [my blog](https://nathaneastwood.github.io):
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
