@@ -19,4 +19,9 @@ I love to talk to people and discuss anything tech! You can reach out to me on a
 These are my latest posts on [my blog](https://nathaneastwood.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [poorman: Version 0.2.1 Release](/2020/07/01/poorman-version-0.2.1-release/)
+- [poorman: The Selectificator 2000!](/2020/05/17/poorman-the-selectificator-2000/)
+- [poorman: Select helpers, bug fixes and tests, tests, tests!](/2020/04/13/poorman-select-helpers-bug-fixes-and-tests-tests-tests/)
+- [poorman: First Release of a base R dplyr Clone](/2020/04/01/poorman-first-release-of-a-base-r-dplyr-clone/)
+- [poorman: Replicating dplyr's Join and Filter Join Functions with base R](/2020/03/08/poorman-replicating-dplyrs-join-and-filter-join-functions-with-base-r/)
 <!-- BLOG-POST-LIST:END -->
