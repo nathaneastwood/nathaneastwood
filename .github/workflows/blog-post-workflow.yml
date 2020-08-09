@@ -12,4 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          template: "$newline-[$title](https://nathaneastwood.github.io$url)"
           feed_list: "https://nathaneastwood.github.io/index.xml"
