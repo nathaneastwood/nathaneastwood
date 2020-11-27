@@ -3,7 +3,7 @@ on:
   schedule:
     # Runs at 00:05 every Sunday
     - cron: '5 0 * * Sun'
-
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
