@@ -19,8 +19,8 @@ I love to talk to people and discuss anything tech! You can reach out to me on a
 These are my latest posts on [my blog](https://nathaneastwood.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Functions As An Input To Functions With {dbplyr}](https://nathaneastwood.github.io/2021/02/18/using-functions-as-an-input-to-functions-with-dbplyr/)
 - [poorman: Versions 0.2.2 and 0.2.3 Releases](https://nathaneastwood.github.io/2020/11/14/poorman-versions-0.2.2-and-0.2.3-releases/)
 - [poorman: Version 0.2.1 Release](https://nathaneastwood.github.io/2020/07/01/poorman-version-0.2.1-release/)
 - [poorman: The Selectificator 2000!](https://nathaneastwood.github.io/2020/05/17/poorman-the-selectificator-2000/)
-- [poorman: Select helpers, bug fixes and tests, tests, tests!](https://nathaneastwood.github.io/2020/04/13/poorman-select-helpers-bug-fixes-and-tests-tests-tests/)
-- [poorman: First Release of a base R dplyr Clone](https://nathaneastwood.github.io/2020/04/01/poorman-first-release-of-a-base-r-dplyr-clone/)<!-- BLOG-POST-LIST:END -->
+- [poorman: Select helpers, bug fixes and tests, tests, tests!](https://nathaneastwood.github.io/2020/04/13/poorman-select-helpers-bug-fixes-and-tests-tests-tests/)<!-- BLOG-POST-LIST:END -->
