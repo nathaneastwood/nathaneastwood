@@ -19,8 +19,8 @@ I love to talk to people and discuss anything tech! You can reach out to me on a
 These are my latest posts on [my blog](https://nathaneastwood.github.io):
 
 <!-- BLOG-POST-LIST:START -->
+- [{poorman}: Version 0.2.5 Release](https://nathaneastwood.github.io/2021/03/29/poorman-version-0.2.5-release/)
 - [Filling NA Values Using the Last Observation Carried Forward with {dplyr}, {dbplyr} and {sparklyr}](https://nathaneastwood.github.io/2021/03/21/filling-na-values-using-the-last-observation-carried-forward-with-dplyr-dbplyr-and-sparklyr/)
 - [Using Functions As An Input To Functions With {dbplyr}](https://nathaneastwood.github.io/2021/02/18/using-functions-as-an-input-to-functions-with-dbplyr/)
 - [poorman: Versions 0.2.2 and 0.2.3 Releases](https://nathaneastwood.github.io/2020/11/14/poorman-versions-0.2.2-and-0.2.3-releases/)
-- [poorman: Version 0.2.1 Release](https://nathaneastwood.github.io/2020/07/01/poorman-version-0.2.1-release/)
-- [poorman: The Selectificator 2000!](https://nathaneastwood.github.io/2020/05/17/poorman-the-selectificator-2000/)<!-- BLOG-POST-LIST:END -->
+- [poorman: Version 0.2.1 Release](https://nathaneastwood.github.io/2020/07/01/poorman-version-0.2.1-release/)<!-- BLOG-POST-LIST:END -->
